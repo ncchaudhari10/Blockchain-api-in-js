@@ -1,7 +1,7 @@
 {
   "name": "blockchain",
   "version": "1.0.0",
-  "description": "Learn Blockchain By Building Your Own In JavaScript",
+  "description": "Blockchain",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
